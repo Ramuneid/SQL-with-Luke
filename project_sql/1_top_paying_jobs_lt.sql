@@ -1,7 +1,7 @@
-/*What are the top-paying data analyst jobs in Lithuania?
-- Identify the top 10 highest-paying roles that are available including remote oportunities.
+/*What are the top-paying data jobs in Lithuania?
+- Identify the top 10 highest-paying roles that are available, including remote opportunities.
 - Focuses on job postings with specified salaries.
-- Why? Aims to highlight the top-paying opportunities offering insights into employment options and location flexibility.*/
+- Why? Aims to highlight the top-paying data job opportunities.*/
 
 SELECT
 	job_id,
