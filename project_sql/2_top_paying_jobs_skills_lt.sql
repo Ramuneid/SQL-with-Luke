@@ -1,4 +1,4 @@
-/***What are the top-paying analyst jobs, and what skills are required in Lithuania?** 
+/*What are the top-paying data jobs, and what skills are required in Lithuania? 
 - Identify the top 10 highest-paying jobs and the specific skills required for these roles.
 - Filters for roles with specified salaries.
 - Why? It provides a detailed look at which high-paying jobs demand certain skills, helping job seekers understand which skills to develop that align with top salaries.*/
